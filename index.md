@@ -4,7 +4,7 @@
 
 ## Applications
 
-### [Semantic Search and Keyword Knowledge Graph](/sample_page)
+### [Semantic Search and Keyword Knowledge Graph](/knowledge-graph)
 <br/>
 Shows underlying correlation patterns between various research fields and researchers in major Universities of Japan in the form a graph networks. The projects deal with multi lingual data including English and Japanese. It was built on top of pretrained BERT model from HuggingFace and Facebook’s FIASS indexing.
 <br/><br/>
@@ -19,7 +19,7 @@ Shows underlying correlation patterns between various research fields and resear
 <img src="images/knowledge-graph.png"/>
 
 ---
-### [Geo-Spatial Analysis of Earthquakes in Turkey](/sample_page)
+### [Geo-Spatial Analysis of Earthquakes in Turkey](https://www.kaggle.com/code/shahiryarsaleem/turkey-earthquakes-analysis)
 <br/>
 Looks at the historic earthquake data, uses geospatial analysis to theorise the origin of earthquakes,  and recommends most vulnerable  districts in Turkey.
 <br/><br/>
@@ -33,7 +33,7 @@ Looks at the historic earthquake data, uses geospatial analysis to theorise the 
 
 ## Algorithm Implementations
 
-### [Upper Confidence Bound Implementation Fom Scratch](http://example.com/)
+### [Upper Confidence Bound Implementation Fom Scratch](https://colab.research.google.com/drive/1xlZhZ6AvMTTfXFCe2WrHD2jdo6kSHbWY#scrollTo=u-u1-vwMXQWa)
 <br/>
 Based on the assumption that given a set of possible options each option has an underlying normal distribution, Upper Confidence Bound Strategy is coded from scratch to choose the optimal option without knowing those distribution, with minimal exploration, and maximum exploitation. This algorithm is useful in a wide variety of problems such as marketing, drug efficacy, and recommender systems.
 <br/><br/>
@@ -45,7 +45,7 @@ Based on the assumption that given a set of possible options each option has an 
 <img src="images/upper-bound-confidence.png"/>
 
 ---
-### [Naive Bayes Implementation From Scratch](example.com)
+### [Naive Bayes Implementation From Scratch](https://github.com/shahiryar/Naive-Bayes)
 <br/>
 From scratch implementation of Naive Bayes Classification Algorithm. Classifies a given set of datapoints into a certain number of classes.
 <br/><br/>
@@ -55,7 +55,7 @@ From scratch implementation of Naive Bayes Classification Algorithm. Classifies 
 <img src="images/naive-bayes-classification.png">
 
 ---
-### [Logistic Regression From Scratch](example.com)
+### [Logistic Regression From Scratch](https://github.com/shahiryar/Logistic-Regression)
 <br/>
 From scratch implementation of Logistic Regression Classification Algorithm. Also, includes built it visualisation and validation functions.
 <br/><br/>
