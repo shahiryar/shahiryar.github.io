@@ -45,7 +45,7 @@ Based on the assumption that given a set of possible options each option has an 
 <img src="images/upper-bound-confidence.png"/>
 
 ---
-### [Naive Bayes Implementation From Scratch](https://github.com/shahiryar/Naive-Bayes)
+### [Naive Bayes Implementation From Scratch](https://github.com/shahiryar/Naive-Bayes/blob/master/README.rst)
 <br/>
 From scratch implementation of Naive Bayes Classification Algorithm. Classifies a given set of datapoints into a certain number of classes.
 <br/><br/>
@@ -55,7 +55,7 @@ From scratch implementation of Naive Bayes Classification Algorithm. Classifies 
 <img src="images/naive-bayes-classification.png">
 
 ---
-### [Logistic Regression From Scratch](https://github.com/shahiryar/Logistic-Regression)
+### [Logistic Regression From Scratch](https://github.com/shahiryar/Logistic-Regression/blob/main/README.md)
 <br/>
 From scratch implementation of Logistic Regression Classification Algorithm. Also, includes built it visualisation and validation functions.
 <br/><br/>
