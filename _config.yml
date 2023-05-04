@@ -5,7 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Currently, garnaring diverse experience in Data Science and Machine Learning through independent projects.
   <br><br>
-  <a href="https://www.linkedin.com/in/shahiryar-saleem-459b5a146/">View My LinkedIn Profile</a> 
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="shahiryar-saleem-459b5a146" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/shahiryar-saleem-459b5a146?trk=profile-badge">Shahiryar Saleem</a></div>
+              
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
