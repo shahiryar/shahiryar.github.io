@@ -10,7 +10,9 @@
 
 
 <img src="images/cover_conflcit_modeling_POLITICAL-VIOLENCE.jpeg" alt="The scene of a 2019 political violence in Nigeria, a crowd protesting in the backdrop of fire and smoke"/>
+
 This project shows Shahiryar's commitment, creativity, and orginallity in ideation and implmentation of a project that addresses a pressing real-world-problem.
+
 ## Problem Statement
 The objective of this project is to develop a predictive model to determine the likelihood of conflicts, civil unrest, or political violence in a country. 
 By analyzing historical data and various socio-economic, political, and demographic factors, 
