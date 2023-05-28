@@ -1,4 +1,6 @@
 # Modeling Violent Conflicts
+[Find code at this Github Repository](https://github.com/shahiryar/conflict-modelling)
+
 <span style="background-color: #daf59f; color: #ffffff; padding: 0.5px 7px; border-radius: 5px;">Support Vector Machine (SVM)</span>
 <span style="background-color: #8abceb; color: #ffffff; padding: 0.5px 7px; border-radius: 5px;">Deep Learning</span>
 <span style="background-color: #f59faf; color: #ffffff; padding: 0.5px 7px; border-radius: 5px;">Random Forest Classifier</span>
