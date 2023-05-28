@@ -8,7 +8,7 @@
 <br/>
 The objective of this project is to develop a predictive model to determine the likelihood of conflicts, civil unrest, or political violence in a country. By analyzing historical data and various socio-economic, political, and demographic factors, the model aims to provide early warning indicators and insights that can help policymakers and organizations proactively address potential conflicts.
 <br/><br/>
-<span style="background-color: #daf59f; color: #ffffff; padding: 0.5px 7px; border-radius: 5px;">Support Vector Machine (SVM)</span>
+<span style="background-color: #f59faf; color: #ffffff; padding: 0.5px 7px; border-radius: 5px;">Support Vector Machine (SVM)</span>
 <span style="background-color: #8abceb; color: #ffffff; padding: 0.5px 7px; border-radius: 5px;">Deep Learning</span>
 <span style="background-color: #f59faf; color: #ffffff; padding: 0.5px 7px; border-radius: 5px;">Random Forest Classifier</span>
 <span style="background-color: #eb8a8a; color: #ffffff; padding: 0.5px 7px; border-radius: 5px;">Data Cleaning</span>
