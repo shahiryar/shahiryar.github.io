@@ -1,4 +1,5 @@
-# Portfolio
+
+"# Portfolio
 
 ---
 
@@ -17,7 +18,8 @@ An application of autoencoders includes image denoising. I have used the persons
 <div style="display: flex;">
     <img src="images/denoising.png" alt="The scene of a 2019 political violence in Nigeria, a crowd protesting in the backdrop of fire and smoke" style="margin-right: 10px; width: 45%;"/>
 </div>
-
+<br/><br/>
+---
 ## [Spam SMS Text Classification](https://colab.research.google.com/github/shahiryar/spam-classification/blob/main/Spam_SMS_Classification.ipynb)
 <br/>
 Uses deep learning to detect spam messages. A Bi-Directional Encoder Representation from Transformers (BERT) as a feature extraction backbone is used to predict if the text of a given SMS is likely to be a Spam message.
@@ -31,7 +33,8 @@ Uses deep learning to detect spam messages. A Bi-Directional Encoder Representat
 <div style="display: flex;">
     <img src="images/Spam detection evals.png" alt="The scene of a 2019 political violence in Nigeria, a crowd protesting in the backdrop of fire and smoke" style="margin-right: 10px; width: 45%;"/>
 </div>
-
+<br/><br/>
+---
 ## [Modeling Political Conflicts](/project_conflict_modeling.md)
 <br/>
 The objective of this project is to develop a predictive model to determine the likelihood of conflicts, civil unrest, or political violence in a country. By analyzing historical data and various socio-economic, political, and demographic factors, the model aims to provide early warning indicators and insights that can help policymakers and organizations proactively address potential conflicts.
@@ -49,7 +52,7 @@ The objective of this project is to develop a predictive model to determine the 
     <img src="images/cover_conflcit_modeling_POLITICAL-VIOLENCE.jpeg" alt="The scene of a 2019 political violence in Nigeria, a crowd protesting in the backdrop of fire and smoke" style="margin-right: 10px; width: 45%;"/>
     <img src="images/Confusion_matrix_random_forest_clasif_conflict_modeling.png" style="margin-right: 10px; width: 45%;"/>
 </div>
-
+<br/><br/>
 ---
 ### [Semantic Search and Keyword Knowledge Graph](/knowledge-graph)
 <br/>
@@ -64,7 +67,7 @@ Shows underlying correlation patterns between various research fields and resear
 <span style="background-color: #8aebe1; color: #ffffff; padding: 0.5px 7px; border-radius: 5px;">Correlation</span>
 <br/><br/>
 <img src="images/knowledge-graph.png"/>
-
+<br/><br/>
 ---
 ### [Geo-Spatial Analysis of Earthquakes in Turkey](https://www.kaggle.com/code/shahiryarsaleem/turkey-earthquakes-analysis)
 <br/>
