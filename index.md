@@ -54,7 +54,8 @@ The objective of this project is to develop a predictive model to determine the 
 </div>
 <br/><br/>
 ---
-### [Semantic Search and Keyword Knowledge Graph](/knowledge-graph)
+<br/>
+## [Semantic Search and Keyword Knowledge Graph](/knowledge-graph)
 <br/>
 Shows underlying correlation patterns between various research fields and researchers in major Universities of Japan in the form a graph networks. The projects deal with multi lingual data including English and Japanese. It was built on top of pretrained BERT model from HuggingFace and Facebook’s FIASS indexing.
 <br/><br/>
