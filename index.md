@@ -16,7 +16,6 @@ An application of autoencoders includes image denoising. I have used the persons
 <br/><br/>
 <div style="display: flex;">
     <img src="images/denoising.png" alt="The scene of a 2019 political violence in Nigeria, a crowd protesting in the backdrop of fire and smoke" style="margin-right: 10px; width: 45%;"/>
-    <img src="images/Confusion_matrix_random_forest_clasif_conflict_modeling.png" style="margin-right: 10px; width: 45%;"/>
 </div>
 
 ## [Spam SMS Text Classification](https://colab.research.google.com/github/shahiryar/spam-classification/blob/main/Spam_SMS_Classification.ipynb)
@@ -31,7 +30,6 @@ Uses deep learning to detect spam messages. A Bi-Directional Encoder Representat
 <br/><br/>
 <div style="display: flex;">
     <img src="images/Spam detection evals.png" alt="The scene of a 2019 political violence in Nigeria, a crowd protesting in the backdrop of fire and smoke" style="margin-right: 10px; width: 45%;"/>
-    <img src="images/Confusion_matrix_random_forest_clasif_conflict_modeling.png" style="margin-right: 10px; width: 45%;"/>
 </div>
 
 ## [Modeling Political Conflicts](/project_conflict_modeling.md)
